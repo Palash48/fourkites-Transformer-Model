@@ -1,0 +1,12 @@
+torch>=2.1
+numpy
+pandas
+pyarrow
+matplotlib
+sentencepiece>=0.1.99
+safetensors
+jupyter
+nbconvert
+# optional
+wandb
+huggingface_hub

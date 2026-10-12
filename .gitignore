@@ -1,0 +1,18 @@
+data/opus100/
+outputs/checkpoints/
+outputs_debug/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# the task brief is marked confidential: keep it out of the public repo
+Transformer_model.pdf
+report.html
+hf_model/__pycache__/
+outputs/full_run.log
+.claude/
+wandb/
+
+# report files are submitted separately, not kept in git
+report.pdf
+make_report.py
+links.json

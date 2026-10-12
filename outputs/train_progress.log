@@ -1,0 +1,332 @@
+step    100 | loss 8.971 | lr 4.00e-05 | 2635 tok/s | 15:10:07
+step    200 | loss 7.864 | lr 8.00e-05 | 2889 tok/s | 15:12:06
+step    300 | loss 7.286 | lr 1.20e-04 | 2734 tok/s | 15:14:12
+step    400 | loss 7.125 | lr 1.60e-04 | 2780 tok/s | 15:16:16
+step    500 | loss 6.845 | lr 2.00e-04 | 2737 tok/s | 15:18:23
+step    600 | loss 6.765 | lr 2.40e-04 | 2822 tok/s | 15:20:25
+step    700 | loss 6.406 | lr 2.80e-04 | 2739 tok/s | 15:22:32
+step    800 | loss 6.271 | lr 3.20e-04 | 2483 tok/s | 15:24:52
+step    900 | loss 6.188 | lr 3.60e-04 | 2831 tok/s | 15:26:54
+step   1000 | loss 6.056 | lr 4.00e-04 | 2841 tok/s | 15:28:56
+EVAL step   1000 | epoch 0 | val loss 5.471 | dev OVERALL 7.1 | BLEU all 1.3 | chrF seen/long/unseen 11.8/13.4/10.1
+step   1100 | loss 5.849 | lr 4.40e-04 | 2110 tok/s | 15:32:18
+step   1200 | loss 5.718 | lr 4.80e-04 | 1698 tok/s | 15:35:43
+step   1300 | loss 5.643 | lr 5.20e-04 | 1865 tok/s | 15:38:49
+step   1400 | loss 5.486 | lr 5.60e-04 | 2307 tok/s | 15:41:19
+step   1500 | loss 5.378 | lr 6.00e-04 | 3033 tok/s | 15:43:14
+step   1600 | loss 5.429 | lr 6.40e-04 | 3034 tok/s | 15:45:07
+step   1700 | loss 5.236 | lr 6.80e-04 | 3058 tok/s | 15:47:01
+step   1800 | loss 5.231 | lr 7.20e-04 | 3067 tok/s | 15:48:53
+step   1900 | loss 5.017 | lr 7.60e-04 | 3064 tok/s | 15:50:47
+step   2000 | loss 5.134 | lr 8.00e-04 | 2810 tok/s | 15:52:49
+EVAL step   2000 | epoch 0 | val loss 4.315 | dev OVERALL 15.1 | BLEU all 4.7 | chrF seen/long/unseen 23.1/25.6/20.6
+step   2100 | loss 4.989 | lr 7.81e-04 | 2789 tok/s | 15:55:22
+step   2200 | loss 4.960 | lr 7.63e-04 | 2887 tok/s | 15:57:22
+step   2300 | loss 4.890 | lr 7.46e-04 | 2915 tok/s | 15:59:21
+step   2400 | loss 4.787 | lr 7.30e-04 | 2885 tok/s | 16:01:21
+step   2500 | loss 4.782 | lr 7.16e-04 | 2764 tok/s | 16:03:26
+step   2600 | loss 4.684 | lr 7.02e-04 | 2739 tok/s | 16:05:32
+step   2700 | loss 4.583 | lr 6.89e-04 | 2740 tok/s | 16:07:39
+step   2800 | loss 4.533 | lr 6.76e-04 | 2708 tok/s | 16:09:46
+step   2900 | loss 4.504 | lr 6.64e-04 | 2773 tok/s | 16:11:51
+step   3000 | loss 4.524 | lr 6.53e-04 | 2757 tok/s | 16:13:55
+EVAL step   3000 | epoch 0 | val loss 3.561 | dev OVERALL 22.3 | BLEU all 10.9 | chrF seen/long/unseen 33.0/37.1/26.9
+step   3100 | loss 4.468 | lr 6.43e-04 | 2798 tok/s | 16:16:27
+step   3200 | loss 4.362 | lr 6.32e-04 | 2645 tok/s | 16:18:38
+step   3300 | loss 4.319 | lr 6.23e-04 | 2645 tok/s | 16:20:49
+step   3400 | loss 4.281 | lr 6.14e-04 | 2760 tok/s | 16:22:54
+step   3500 | loss 4.261 | lr 6.05e-04 | 2646 tok/s | 16:25:05
+step   3600 | loss 4.276 | lr 5.96e-04 | 2568 tok/s | 16:27:19
+step   3700 | loss 4.197 | lr 5.88e-04 | 2577 tok/s | 16:29:33
+step   3800 | loss 4.156 | lr 5.80e-04 | 2485 tok/s | 16:31:53
+step   3900 | loss 4.109 | lr 5.73e-04 | 2495 tok/s | 16:34:12
+step   4000 | loss 4.169 | lr 5.66e-04 | 2488 tok/s | 16:36:30
+EVAL step   4000 | epoch 0 | val loss 3.190 | dev OVERALL 25.6 | BLEU all 13.7 | chrF seen/long/unseen 35.0/44.6/30.5
+step   4100 | loss 4.097 | lr 5.59e-04 | 2546 tok/s | 16:39:14
+step   4200 | loss 4.078 | lr 5.52e-04 | 2481 tok/s | 16:41:34
+step   4300 | loss 4.090 | lr 5.46e-04 | 2466 tok/s | 16:43:55
+step   4400 | loss 4.026 | lr 5.39e-04 | 2545 tok/s | 16:46:11
+step   4500 | loss 4.046 | lr 5.33e-04 | 2674 tok/s | 16:48:20
+step   4600 | loss 4.018 | lr 5.28e-04 | 2649 tok/s | 16:50:31
+step   4700 | loss 4.004 | lr 5.22e-04 | 2683 tok/s | 16:52:40
+step   4800 | loss 3.973 | lr 5.16e-04 | 2608 tok/s | 16:54:53
+step   4900 | loss 3.954 | lr 5.11e-04 | 2605 tok/s | 16:57:07
+step   5000 | loss 3.945 | lr 5.06e-04 | 2621 tok/s | 16:59:20
+EVAL step   5000 | epoch 0 | val loss 2.998 | dev OVERALL 29.0 | BLEU all 17.1 | chrF seen/long/unseen 38.4/47.5/33.9
+step   5100 | loss 3.960 | lr 5.01e-04 | 2628 tok/s | 17:02:01
+step   5200 | loss 3.912 | lr 4.96e-04 | 2629 tok/s | 17:04:12
+step   5300 | loss 3.883 | lr 4.91e-04 | 2653 tok/s | 17:06:23
+step   5400 | loss 3.918 | lr 4.87e-04 | 2615 tok/s | 17:08:34
+step   5500 | loss 3.902 | lr 4.82e-04 | 2593 tok/s | 17:10:48
+step   5600 | loss 3.917 | lr 4.78e-04 | 2556 tok/s | 17:13:03
+step   5700 | loss 3.864 | lr 4.74e-04 | 2547 tok/s | 17:15:18
+step   5800 | loss 3.864 | lr 4.70e-04 | 2539 tok/s | 17:17:34
+step   5900 | loss 3.845 | lr 4.66e-04 | 2532 tok/s | 17:19:51
+step   6000 | loss 3.822 | lr 4.62e-04 | 2540 tok/s | 17:22:07
+EVAL step   6000 | epoch 1 | val loss 2.868 | dev OVERALL 30.3 | BLEU all 18.9 | chrF seen/long/unseen 40.0/49.9/34.5
+step   6100 | loss 3.823 | lr 4.58e-04 | 2539 tok/s | 17:24:45
+step   6200 | loss 3.809 | lr 4.54e-04 | 2570 tok/s | 17:26:59
+step   6300 | loss 3.790 | lr 4.51e-04 | 2546 tok/s | 17:29:15
+step   6400 | loss 3.791 | lr 4.47e-04 | 2667 tok/s | 17:31:25
+step   6500 | loss 3.795 | lr 4.44e-04 | 2677 tok/s | 17:33:34
+step   6600 | loss 3.740 | lr 4.40e-04 | 2695 tok/s | 17:35:44
+step   6700 | loss 3.769 | lr 4.37e-04 | 2662 tok/s | 17:37:54
+step   6800 | loss 3.716 | lr 4.34e-04 | 2691 tok/s | 17:40:03
+step   6900 | loss 3.758 | lr 4.31e-04 | 2692 tok/s | 17:42:11
+step   7000 | loss 3.727 | lr 4.28e-04 | 2653 tok/s | 17:44:22
+EVAL step   7000 | epoch 1 | val loss 2.769 | dev OVERALL 30.5 | BLEU all 18.6 | chrF seen/long/unseen 39.2/49.6/35.7
+step   7100 | loss 3.731 | lr 4.25e-04 | 2677 tok/s | 17:46:46
+step   7200 | loss 3.716 | lr 4.22e-04 | 2732 tok/s | 17:48:54
+step   7300 | loss 3.761 | lr 4.19e-04 | 2675 tok/s | 17:51:03
+step   7400 | loss 3.737 | lr 4.16e-04 | 2669 tok/s | 17:53:12
+step   7500 | loss 3.717 | lr 4.13e-04 | 2711 tok/s | 17:55:20
+step   7600 | loss 3.694 | lr 4.10e-04 | 2662 tok/s | 17:57:30
+step   7700 | loss 3.643 | lr 4.08e-04 | 2658 tok/s | 17:59:40
+step   7800 | loss 3.699 | lr 4.05e-04 | 2612 tok/s | 18:01:53
+step   7900 | loss 3.677 | lr 4.03e-04 | 2607 tok/s | 18:04:06
+step   8000 | loss 3.728 | lr 4.00e-04 | 2579 tok/s | 18:06:19
+EVAL step   8000 | epoch 1 | val loss 2.704 | dev OVERALL 31.1 | BLEU all 19.7 | chrF seen/long/unseen 40.3/52.2/35.1
+step   8100 | loss 3.680 | lr 3.98e-04 | 2596 tok/s | 18:08:54
+step   8200 | loss 3.648 | lr 3.95e-04 | 2557 tok/s | 18:11:10
+step   8300 | loss 3.677 | lr 3.93e-04 | 2626 tok/s | 18:13:22
+step   8400 | loss 3.650 | lr 3.90e-04 | 2556 tok/s | 18:15:37
+step   8500 | loss 3.667 | lr 3.88e-04 | 2564 tok/s | 18:17:52
+step   8600 | loss 3.654 | lr 3.86e-04 | 2554 tok/s | 18:20:07
+step   8700 | loss 3.653 | lr 3.84e-04 | 2546 tok/s | 18:22:23
+step   8800 | loss 3.646 | lr 3.81e-04 | 2511 tok/s | 18:24:40
+step   8900 | loss 3.635 | lr 3.79e-04 | 2509 tok/s | 18:26:58
+step   9000 | loss 3.634 | lr 3.77e-04 | 2480 tok/s | 18:29:18
+EVAL step   9000 | epoch 1 | val loss 2.643 | dev OVERALL 33.2 | BLEU all 22.2 | chrF seen/long/unseen 41.2/53.8/37.3
+step   9100 | loss 3.604 | lr 3.75e-04 | 2589 tok/s | 18:32:02
+step   9200 | loss 3.617 | lr 3.73e-04 | 2560 tok/s | 18:34:17
+step   9300 | loss 3.621 | lr 3.71e-04 | 2582 tok/s | 18:36:31
+step   9400 | loss 3.613 | lr 3.69e-04 | 2614 tok/s | 18:38:44
+step   9500 | loss 3.619 | lr 3.67e-04 | 2581 tok/s | 18:40:57
+step   9600 | loss 3.604 | lr 3.65e-04 | 2574 tok/s | 18:43:13
+step   9700 | loss 3.586 | lr 3.63e-04 | 2589 tok/s | 18:45:26
+step   9800 | loss 3.616 | lr 3.61e-04 | 2581 tok/s | 18:47:40
+step   9900 | loss 3.581 | lr 3.60e-04 | 2577 tok/s | 18:49:54
+step  10000 | loss 3.578 | lr 3.58e-04 | 2542 tok/s | 18:52:10
+EVAL step  10000 | epoch 1 | val loss 2.604 | dev OVERALL 33.5 | BLEU all 22.8 | chrF seen/long/unseen 40.7/54.3/37.5
+resumed from step 10000
+step  10100 | loss 3.630 | lr 3.56e-04 | 2662 tok/s | 19:18:34
+step  10200 | loss 3.619 | lr 3.54e-04 | 2743 tok/s | 19:20:40
+step  10300 | loss 3.586 | lr 3.53e-04 | 2741 tok/s | 19:22:47
+step  10400 | loss 3.553 | lr 3.51e-04 | 2698 tok/s | 19:24:55
+step  10500 | loss 3.580 | lr 3.49e-04 | 2708 tok/s | 19:27:03
+step  10600 | loss 3.612 | lr 3.47e-04 | 2698 tok/s | 19:29:11
+step  10700 | loss 3.568 | lr 3.46e-04 | 2667 tok/s | 19:31:21
+step  10800 | loss 3.555 | lr 3.44e-04 | 2722 tok/s | 19:33:28
+step  10900 | loss 3.549 | lr 3.43e-04 | 2677 tok/s | 19:35:37
+step  11000 | loss 3.622 | lr 3.41e-04 | 2662 tok/s | 19:37:46
+EVAL step  11000 | epoch 1 | val loss 2.571 | dev OVERALL 33.6 | BLEU all 22.5 | chrF seen/long/unseen 42.0/55.0/37.4
+step  11100 | loss 3.608 | lr 3.40e-04 | 2561 tok/s | 19:40:21
+step  11200 | loss 3.536 | lr 3.38e-04 | 2706 tok/s | 19:42:29
+step  11300 | loss 3.598 | lr 3.37e-04 | 2721 tok/s | 19:44:36
+step  11400 | loss 3.560 | lr 3.35e-04 | 2700 tok/s | 19:46:44
+step  11500 | loss 3.573 | lr 3.34e-04 | 2773 tok/s | 19:48:49
+step  11600 | loss 3.525 | lr 3.32e-04 | 2773 tok/s | 19:50:54
+step  11700 | loss 3.556 | lr 3.31e-04 | 2775 tok/s | 19:52:59
+step  11800 | loss 3.534 | lr 3.29e-04 | 2751 tok/s | 19:55:05
+step  11900 | loss 3.565 | lr 3.28e-04 | 2727 tok/s | 19:57:12
+step  12000 | loss 3.513 | lr 3.27e-04 | 2711 tok/s | 19:59:19
+EVAL step  12000 | epoch 2 | val loss 2.535 | dev OVERALL 33.6 | BLEU all 22.8 | chrF seen/long/unseen 41.2/54.2/37.5
+step  12100 | loss 3.462 | lr 3.25e-04 | 2848 tok/s | 20:01:35
+step  12200 | loss 3.500 | lr 3.24e-04 | 2791 tok/s | 20:03:38
+step  12300 | loss 3.514 | lr 3.23e-04 | 2766 tok/s | 20:05:43
+step  12400 | loss 3.467 | lr 3.21e-04 | 2704 tok/s | 20:07:52
+step  12500 | loss 3.479 | lr 3.20e-04 | 2754 tok/s | 20:09:57
+step  12600 | loss 3.493 | lr 3.19e-04 | 2739 tok/s | 20:12:03
+step  12700 | loss 3.483 | lr 3.17e-04 | 2740 tok/s | 20:14:10
+step  12800 | loss 3.487 | lr 3.16e-04 | 2738 tok/s | 20:16:15
+step  12900 | loss 3.477 | lr 3.15e-04 | 2862 tok/s | 20:18:16
+step  13000 | loss 3.494 | lr 3.14e-04 | 2784 tok/s | 20:20:20
+EVAL step  13000 | epoch 2 | val loss 2.507 | dev OVERALL 34.5 | BLEU all 23.4 | chrF seen/long/unseen 42.7/54.1/38.8
+step  13100 | loss 3.496 | lr 3.13e-04 | 2831 tok/s | 20:22:40
+step  13200 | loss 3.484 | lr 3.11e-04 | 2828 tok/s | 20:24:42
+step  13300 | loss 3.504 | lr 3.10e-04 | 2744 tok/s | 20:26:48
+step  13400 | loss 3.485 | lr 3.09e-04 | 2761 tok/s | 20:28:54
+step  13500 | loss 3.465 | lr 3.08e-04 | 2771 tok/s | 20:30:59
+step  13600 | loss 3.480 | lr 3.07e-04 | 2766 tok/s | 20:33:04
+step  13700 | loss 3.492 | lr 3.06e-04 | 2768 tok/s | 20:35:09
+step  13800 | loss 3.481 | lr 3.05e-04 | 2751 tok/s | 20:37:15
+step  13900 | loss 3.478 | lr 3.03e-04 | 2765 tok/s | 20:39:20
+step  14000 | loss 3.484 | lr 3.02e-04 | 2761 tok/s | 20:41:25
+EVAL step  14000 | epoch 2 | val loss 2.482 | dev OVERALL 35.4 | BLEU all 24.7 | chrF seen/long/unseen 44.1/55.6/38.9
+step  14100 | loss 3.477 | lr 3.01e-04 | 2799 tok/s | 20:43:47
+step  14200 | loss 3.465 | lr 3.00e-04 | 2706 tok/s | 20:45:55
+step  14300 | loss 3.473 | lr 2.99e-04 | 2743 tok/s | 20:48:01
+step  14400 | loss 3.435 | lr 2.98e-04 | 2738 tok/s | 20:50:08
+step  14500 | loss 3.440 | lr 2.97e-04 | 2808 tok/s | 20:52:12
+step  14600 | loss 3.468 | lr 2.96e-04 | 2770 tok/s | 20:54:16
+step  14700 | loss 3.457 | lr 2.95e-04 | 2747 tok/s | 20:56:22
+step  14800 | loss 3.458 | lr 2.94e-04 | 2770 tok/s | 20:58:27
+step  14900 | loss 3.461 | lr 2.93e-04 | 2721 tok/s | 21:00:33
+step  15000 | loss 3.449 | lr 2.92e-04 | 2743 tok/s | 21:02:40
+EVAL step  15000 | epoch 2 | val loss 2.461 | dev OVERALL 34.3 | BLEU all 23.9 | chrF seen/long/unseen 41.8/56.2/37.7
+step  15100 | loss 3.440 | lr 2.91e-04 | 2815 tok/s | 21:04:59
+step  15200 | loss 3.465 | lr 2.90e-04 | 2716 tok/s | 21:07:05
+step  15300 | loss 3.472 | lr 2.89e-04 | 2803 tok/s | 21:09:09
+step  15400 | loss 3.515 | lr 2.88e-04 | 2772 tok/s | 21:11:13
+step  15500 | loss 3.440 | lr 2.87e-04 | 2726 tok/s | 21:13:20
+step  15600 | loss 3.435 | lr 2.86e-04 | 2714 tok/s | 21:15:28
+step  15700 | loss 3.431 | lr 2.86e-04 | 2772 tok/s | 21:17:33
+step  15800 | loss 3.414 | lr 2.85e-04 | 2706 tok/s | 21:19:41
+step  15900 | loss 3.416 | lr 2.84e-04 | 2711 tok/s | 21:21:50
+step  16000 | loss 3.447 | lr 2.83e-04 | 2731 tok/s | 21:23:57
+EVAL step  16000 | epoch 2 | val loss 2.436 | dev OVERALL 34.6 | BLEU all 24.6 | chrF seen/long/unseen 40.4/55.9/38.4
+step  16100 | loss 3.473 | lr 2.82e-04 | 2773 tok/s | 21:26:17
+step  16200 | loss 3.448 | lr 2.81e-04 | 2786 tok/s | 21:28:20
+step  16300 | loss 3.455 | lr 2.80e-04 | 2795 tok/s | 21:30:24
+step  16400 | loss 3.435 | lr 2.79e-04 | 2809 tok/s | 21:32:27
+step  16500 | loss 3.450 | lr 2.79e-04 | 2787 tok/s | 21:34:31
+step  16600 | loss 3.441 | lr 2.78e-04 | 2749 tok/s | 21:36:37
+step  16700 | loss 3.432 | lr 2.77e-04 | 2747 tok/s | 21:38:43
+step  16800 | loss 3.451 | lr 2.76e-04 | 2707 tok/s | 21:40:50
+step  16900 | loss 3.445 | lr 2.75e-04 | 2774 tok/s | 21:42:55
+step  17000 | loss 3.431 | lr 2.74e-04 | 2660 tok/s | 21:45:05
+EVAL step  17000 | epoch 2 | val loss 2.417 | dev OVERALL 34.8 | BLEU all 24.7 | chrF seen/long/unseen 41.9/55.9/38.1
+step  17100 | loss 3.412 | lr 2.74e-04 | 2709 tok/s | 21:47:27
+step  17200 | loss 3.413 | lr 2.73e-04 | 2743 tok/s | 21:49:34
+step  17300 | loss 3.400 | lr 2.72e-04 | 2773 tok/s | 21:51:39
+step  17400 | loss 3.416 | lr 2.71e-04 | 2803 tok/s | 21:53:42
+step  17500 | loss 3.435 | lr 2.70e-04 | 2766 tok/s | 21:55:47
+step  17600 | loss 3.427 | lr 2.70e-04 | 2703 tok/s | 21:57:55
+step  17700 | loss 3.409 | lr 2.69e-04 | 2661 tok/s | 22:00:05
+step  17800 | loss 3.432 | lr 2.68e-04 | 2708 tok/s | 22:02:14
+step  17900 | loss 3.383 | lr 2.67e-04 | 2657 tok/s | 22:04:24
+step  18000 | loss 3.387 | lr 2.67e-04 | 2651 tok/s | 22:06:34
+EVAL step  18000 | epoch 3 | val loss 2.407 | dev OVERALL 35.1 | BLEU all 24.5 | chrF seen/long/unseen 43.7/54.7/38.6
+step  18100 | loss 3.381 | lr 2.66e-04 | 2697 tok/s | 22:09:11
+step  18200 | loss 3.364 | lr 2.65e-04 | 2729 tok/s | 22:11:18
+step  18300 | loss 3.391 | lr 2.64e-04 | 2747 tok/s | 22:13:24
+step  18400 | loss 3.401 | lr 2.64e-04 | 2747 tok/s | 22:15:31
+step  18500 | loss 3.360 | lr 2.63e-04 | 2721 tok/s | 22:17:39
+step  18600 | loss 3.415 | lr 2.62e-04 | 2712 tok/s | 22:19:45
+step  18700 | loss 3.375 | lr 2.62e-04 | 2764 tok/s | 22:21:51
+step  18800 | loss 3.403 | lr 2.61e-04 | 2725 tok/s | 22:23:58
+step  18900 | loss 3.405 | lr 2.60e-04 | 2741 tok/s | 22:26:04
+step  19000 | loss 3.374 | lr 2.60e-04 | 2727 tok/s | 22:28:11
+EVAL step  19000 | epoch 3 | val loss 2.394 | dev OVERALL 35.4 | BLEU all 25.2 | chrF seen/long/unseen 43.4/56.8/38.5
+step  19100 | loss 3.384 | lr 2.59e-04 | 2786 tok/s | 22:30:31
+step  19200 | loss 3.380 | lr 2.58e-04 | 2779 tok/s | 22:32:36
+step  19300 | loss 3.386 | lr 2.58e-04 | 2792 tok/s | 22:34:40
+step  19400 | loss 3.397 | lr 2.57e-04 | 2748 tok/s | 22:36:45
+step  19500 | loss 3.360 | lr 2.56e-04 | 2747 tok/s | 22:38:52
+step  19600 | loss 3.371 | lr 2.56e-04 | 2721 tok/s | 22:40:59
+step  19700 | loss 3.345 | lr 2.55e-04 | 2719 tok/s | 22:43:07
+step  19800 | loss 3.382 | lr 2.54e-04 | 2683 tok/s | 22:45:15
+step  19900 | loss 3.362 | lr 2.54e-04 | 2662 tok/s | 22:47:25
+step  20000 | loss 3.378 | lr 2.53e-04 | 2574 tok/s | 22:49:39
+EVAL step  20000 | epoch 3 | val loss 2.379 | dev OVERALL 36.5 | BLEU all 26.4 | chrF seen/long/unseen 43.9/56.9/40.0
+step  20100 | loss 3.343 | lr 2.52e-04 | 2366 tok/s | 22:52:22
+step  20200 | loss 3.352 | lr 2.52e-04 | 2726 tok/s | 22:54:30
+step  20300 | loss 3.356 | lr 2.51e-04 | 2701 tok/s | 22:56:38
+step  20400 | loss 3.382 | lr 2.50e-04 | 2717 tok/s | 22:58:45
+step  20500 | loss 3.352 | lr 2.50e-04 | 2702 tok/s | 23:00:54
+step  20600 | loss 3.399 | lr 2.49e-04 | 2672 tok/s | 23:03:03
+step  20700 | loss 3.360 | lr 2.49e-04 | 2722 tok/s | 23:05:10
+step  20800 | loss 3.359 | lr 2.48e-04 | 2639 tok/s | 23:07:21
+step  20900 | loss 3.344 | lr 2.47e-04 | 2666 tok/s | 23:09:31
+step  21000 | loss 3.380 | lr 2.47e-04 | 2693 tok/s | 23:11:38
+EVAL step  21000 | epoch 3 | val loss 2.366 | dev OVERALL 35.0 | BLEU all 24.8 | chrF seen/long/unseen 43.1/56.0/38.2
+step  21100 | loss 3.368 | lr 2.46e-04 | 2788 tok/s | 23:13:59
+step  21200 | loss 3.397 | lr 2.46e-04 | 2763 tok/s | 23:16:04
+step  21300 | loss 3.388 | lr 2.45e-04 | 2785 tok/s | 23:18:07
+step  21400 | loss 3.370 | lr 2.45e-04 | 2744 tok/s | 23:20:14
+step  21500 | loss 3.348 | lr 2.44e-04 | 2754 tok/s | 23:22:20
+step  21600 | loss 3.341 | lr 2.43e-04 | 2777 tok/s | 23:24:25
+step  21700 | loss 3.339 | lr 2.43e-04 | 2631 tok/s | 23:26:36
+step  21800 | loss 3.353 | lr 2.42e-04 | 3077 tok/s | 23:28:29
+step  21900 | loss 3.357 | lr 2.42e-04 | 2831 tok/s | 23:30:31
+step  22000 | loss 3.345 | lr 2.41e-04 | 2705 tok/s | 23:32:40
+EVAL step  22000 | epoch 3 | val loss 2.360 | dev OVERALL 35.1 | BLEU all 25.2 | chrF seen/long/unseen 42.1/57.1/38.0
+step  22100 | loss 3.383 | lr 2.41e-04 | 2799 tok/s | 23:34:59
+step  22200 | loss 3.353 | lr 2.40e-04 | 2717 tok/s | 23:37:06
+step  22300 | loss 3.372 | lr 2.40e-04 | 2713 tok/s | 23:39:12
+step  22400 | loss 3.363 | lr 2.39e-04 | 2769 tok/s | 23:41:17
+step  22500 | loss 3.330 | lr 2.39e-04 | 2756 tok/s | 23:43:23
+step  22600 | loss 3.349 | lr 2.38e-04 | 2863 tok/s | 23:45:25
+step  22700 | loss 3.362 | lr 2.37e-04 | 2763 tok/s | 23:47:30
+step  22800 | loss 3.376 | lr 2.37e-04 | 2711 tok/s | 23:49:37
+step  22900 | loss 3.336 | lr 2.36e-04 | 2840 tok/s | 23:51:40
+step  23000 | loss 3.372 | lr 2.36e-04 | 2801 tok/s | 23:53:43
+EVAL step  23000 | epoch 3 | val loss 2.346 | dev OVERALL 36.0 | BLEU all 25.7 | chrF seen/long/unseen 43.3/56.6/39.7
+step  23100 | loss 3.364 | lr 2.35e-04 | 2503 tok/s | 23:56:17
+step  23200 | loss 3.367 | lr 2.35e-04 | 2785 tok/s | 23:58:21
+step  23300 | loss 3.348 | lr 2.34e-04 | 2753 tok/s | 00:00:27
+step  23400 | loss 3.360 | lr 2.34e-04 | 2705 tok/s | 00:02:35
+step  23500 | loss 3.337 | lr 2.33e-04 | 2719 tok/s | 00:04:43
+step  23600 | loss 3.357 | lr 2.33e-04 | 2694 tok/s | 00:06:51
+step  23700 | loss 3.341 | lr 2.32e-04 | 2765 tok/s | 00:08:56
+step  23800 | loss 3.349 | lr 2.32e-04 | 2727 tok/s | 00:11:03
+step  23900 | loss 3.312 | lr 2.31e-04 | 2716 tok/s | 00:13:11
+step  24000 | loss 3.324 | lr 2.31e-04 | 2681 tok/s | 00:15:19
+EVAL step  24000 | epoch 4 | val loss 2.329 | dev OVERALL 36.5 | BLEU all 26.3 | chrF seen/long/unseen 43.2/57.1/40.4
+step  24100 | loss 3.330 | lr 2.30e-04 | 2819 tok/s | 00:17:37
+step  24200 | loss 3.315 | lr 2.30e-04 | 2740 tok/s | 00:19:44
+step  24300 | loss 3.310 | lr 2.30e-04 | 2804 tok/s | 00:21:48
+step  24400 | loss 3.319 | lr 2.29e-04 | 2857 tok/s | 00:23:49
+step  24500 | loss 3.315 | lr 2.29e-04 | 2783 tok/s | 00:25:52
+step  24600 | loss 3.333 | lr 2.28e-04 | 2859 tok/s | 00:27:54
+step  24700 | loss 3.316 | lr 2.28e-04 | 2866 tok/s | 00:29:54
+step  24800 | loss 3.327 | lr 2.27e-04 | 2850 tok/s | 00:31:55
+step  24900 | loss 3.306 | lr 2.27e-04 | 2830 tok/s | 00:33:57
+step  25000 | loss 3.307 | lr 2.26e-04 | 2810 tok/s | 00:36:00
+EVAL step  25000 | epoch 4 | val loss 2.328 | dev OVERALL 36.2 | BLEU all 26.3 | chrF seen/long/unseen 43.1/56.6/39.5
+step  25100 | loss 3.322 | lr 2.26e-04 | 2773 tok/s | 00:38:20
+step  25200 | loss 3.326 | lr 2.25e-04 | 2775 tok/s | 00:40:25
+step  25300 | loss 3.330 | lr 2.25e-04 | 2660 tok/s | 00:42:35
+step  25400 | loss 3.327 | lr 2.24e-04 | 2707 tok/s | 00:44:43
+step  25500 | loss 3.321 | lr 2.24e-04 | 2735 tok/s | 00:46:49
+step  25600 | loss 3.351 | lr 2.24e-04 | 2720 tok/s | 00:48:55
+step  25700 | loss 3.297 | lr 2.23e-04 | 2757 tok/s | 00:51:01
+step  25800 | loss 3.326 | lr 2.23e-04 | 2724 tok/s | 00:53:08
+step  25900 | loss 3.296 | lr 2.22e-04 | 2693 tok/s | 00:55:17
+step  26000 | loss 3.318 | lr 2.22e-04 | 2760 tok/s | 00:57:22
+EVAL step  26000 | epoch 4 | val loss 2.317 | dev OVERALL 35.7 | BLEU all 26.1 | chrF seen/long/unseen 44.0/57.2/37.9
+step  26100 | loss 3.325 | lr 2.21e-04 | 2834 tok/s | 00:59:41
+step  26200 | loss 3.277 | lr 2.21e-04 | 2810 tok/s | 01:01:44
+step  26300 | loss 3.336 | lr 2.21e-04 | 2850 tok/s | 01:03:45
+step  26400 | loss 3.314 | lr 2.20e-04 | 2869 tok/s | 01:05:46
+step  26500 | loss 3.333 | lr 2.20e-04 | 2780 tok/s | 01:07:50
+step  26600 | loss 3.289 | lr 2.19e-04 | 2825 tok/s | 01:09:53
+step  26700 | loss 3.280 | lr 2.19e-04 | 2758 tok/s | 01:11:59
+step  26800 | loss 3.310 | lr 2.19e-04 | 2768 tok/s | 01:14:04
+step  26900 | loss 3.292 | lr 2.18e-04 | 2761 tok/s | 01:16:11
+step  27000 | loss 3.312 | lr 2.18e-04 | 2797 tok/s | 01:18:15
+EVAL step  27000 | epoch 4 | val loss 2.307 | dev OVERALL 36.2 | BLEU all 25.7 | chrF seen/long/unseen 43.1/57.1/40.2
+step  27100 | loss 3.316 | lr 2.17e-04 | 2823 tok/s | 01:20:33
+step  27200 | loss 3.320 | lr 2.17e-04 | 2820 tok/s | 01:22:36
+step  27300 | loss 3.280 | lr 2.17e-04 | 2800 tok/s | 01:24:40
+step  27400 | loss 3.308 | lr 2.16e-04 | 2775 tok/s | 01:26:44
+step  27500 | loss 3.312 | lr 2.16e-04 | 2783 tok/s | 01:28:49
+step  27600 | loss 3.309 | lr 2.15e-04 | 2778 tok/s | 01:30:54
+step  27700 | loss 3.319 | lr 2.15e-04 | 2756 tok/s | 01:32:59
+step  27800 | loss 3.330 | lr 2.15e-04 | 2719 tok/s | 01:35:06
+step  27900 | loss 3.311 | lr 2.14e-04 | 2725 tok/s | 01:37:13
+step  28000 | loss 3.290 | lr 2.14e-04 | 2702 tok/s | 01:39:22
+EVAL step  28000 | epoch 4 | val loss 2.296 | dev OVERALL 36.0 | BLEU all 26.1 | chrF seen/long/unseen 43.8/56.8/39.0
+step  28100 | loss 3.283 | lr 2.13e-04 | 2786 tok/s | 01:41:42
+step  28200 | loss 3.308 | lr 2.13e-04 | 2752 tok/s | 01:43:48
+step  28300 | loss 3.306 | lr 2.13e-04 | 2730 tok/s | 01:45:55
+step  28400 | loss 3.304 | lr 2.12e-04 | 2777 tok/s | 01:47:59
+step  28500 | loss 3.287 | lr 2.12e-04 | 2789 tok/s | 01:50:04
+step  28600 | loss 3.312 | lr 2.12e-04 | 2755 tok/s | 01:52:09
+step  28700 | loss 3.284 | lr 2.11e-04 | 2755 tok/s | 01:54:14
+step  28800 | loss 3.308 | lr 2.11e-04 | 2764 tok/s | 01:56:19
+step  28900 | loss 3.309 | lr 2.10e-04 | 2755 tok/s | 01:58:25
+step  29000 | loss 3.292 | lr 2.10e-04 | 2749 tok/s | 02:00:32
+EVAL step  29000 | epoch 4 | val loss 2.291 | dev OVERALL 36.6 | BLEU all 26.8 | chrF seen/long/unseen 43.3/57.4/39.8
+step  29100 | loss 3.304 | lr 2.10e-04 | 2785 tok/s | 02:02:52
+step  29200 | loss 3.305 | lr 2.09e-04 | 2794 tok/s | 02:04:56
+step  29300 | loss 3.275 | lr 2.09e-04 | 2785 tok/s | 02:07:00
+step  29400 | loss 3.311 | lr 2.09e-04 | 2792 tok/s | 02:09:04
+step  29500 | loss 3.313 | lr 2.08e-04 | 2752 tok/s | 02:11:09
+step  29600 | loss 3.309 | lr 2.08e-04 | 2661 tok/s | 02:13:18
+step  29700 | loss 3.281 | lr 2.08e-04 | 2648 tok/s | 02:15:28
+step  29800 | loss 3.278 | lr 2.07e-04 | 2660 tok/s | 02:17:39
+step  29900 | loss 3.250 | lr 2.07e-04 | 2620 tok/s | 02:19:52
+step  30000 | loss 3.272 | lr 2.07e-04 | 2615 tok/s | 02:22:04
+EVAL step  30000 | epoch 5 | val loss 2.284 | dev OVERALL 37.1 | BLEU all 27.0 | chrF seen/long/unseen 43.0/58.2/40.9
+resumed from step 30000
